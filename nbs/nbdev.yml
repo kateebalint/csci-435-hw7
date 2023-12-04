@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "csci-435-hw7"
+  site-url: "https://kateebalint.github.io/csci-435-hw7"
+  description: "nbdev tutorial"
+  repo-branch: main
+  repo-url: "https://github.com/kateebalint/csci-435-hw7"
